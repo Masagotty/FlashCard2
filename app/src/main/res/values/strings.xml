@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">FlashCard2</string>
+    <string name="ketsu_title">ketsukick</string>
+    <string name="ketsu_content">・She ketsukicked her boyfriend.\n ・Her ketsukick is so dangerous.</string>
+    <string name="ketsu_meaning">ケツキック</string>
+    <string name="chabu_title">chabudai-gaeshi</string>
+    <string name="chabu_content">・My father likes chabudai-gaeshi.\n ・He is practicing chabudai-gaeshi.</string>
+    <string name="chabu_meaning">ちゃぶ台返し</string>
+    <string name="sm_title">SM-queen</string>
+    <string name="sm_content">・She is a legendary SM-queen.\n ・I really love the SM-queen.</string>
+    <string name="sm_meaning">女王様</string>
+    <string name="segway_title">segway</string>
+    <string name="segway_content">・Your segway is old-fashioned.\n ・I had my segway stolen.</string>
+    <string name="segway_meaning">セグウェイ</string>
+    <string name="fxxk_title">fxxk</string>
+    <string name="fxxk_content">・Fxxk you!!\n ・It's fxxkin' funny!!</string>
+    <string name="fxxk_meaning">フ○○ク</string>
 </resources>

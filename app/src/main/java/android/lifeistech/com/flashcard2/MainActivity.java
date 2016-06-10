@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         mCards.add(new Card(R.drawable.sm, getString(R.string.sm_title), getString(R.string.sm_content), getString(R.string.sm_meaning)));
         mCards.add(new Card(R.drawable.segway, getString(R.string.segway_title), getString(R.string.segway_content), getString(R.string.segway_meaning)));
         mCards.add(new Card(R.drawable.fxxk, getString(R.string.fxxk_title), getString(R.string.fxxk_content), getString(R.string.fxxk_meaning)));
+        mCards.add(new Card(R.drawable.memo, getString(R.string.memo_title), getString(R.string.memo_content), getString(R.string.memo_meaning)));
 
         mCardAdapter = new CardAdapter(this, R.layout.card, mCards);
         mListView.setAdapter(mCardAdapter);

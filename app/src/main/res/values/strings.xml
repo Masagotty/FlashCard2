@@ -15,4 +15,7 @@
     <string name="fxxk_title">fxxk</string>
     <string name="fxxk_content">・Fxxk you!!\n ・It is fxxkin funny!!</string>
     <string name="fxxk_meaning">フ○○ク</string>
+    <string name="memo_title">memo</string>
+    <string name="memo_content">・Memo you!!\n ・It is memo funny!!</string>
+    <string name="memo_meaning">メモ</string>
 </resources>
